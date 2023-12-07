@@ -9,10 +9,10 @@ This C++ project simulates a race among political parties to form a coalition wi
 This will create an executable file named cRace inside the folder 'bin'.
 
 3. Run the simulation with one of the provided configurations from the 'tests' folder.
-For example:  ./bin/cRace tests/01.json
+For example:  ./bin/cRace tests/01.json .
 Choose from the available configurations (e.g., 01.json, 02.json, etc.) to observe different scenarios. Feel free to customize these files or create new ones to explore different scenarios.
 
-4. View Results:
+5. View Results:
 After running the simulation, the results will be stored in an output file inside the tests directory.
 
 ## Dependencies
