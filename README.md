@@ -1,6 +1,6 @@
 # election-sim
 ## Project Overview
-This C++ project simulates a race among political parties to form a coalition with 60 or more mandates. The simulation involves agents, each with different norms and ways of action, competing to create a coalition within a Linux environment.
+This C++ project simulates a race among political parties to form a coalition with 60 or more mandates. The simulation involves agents, each with different norms and ways of action, competing to create a coalition.
 
 ## How to Run
 1. Navigate to the Project Directory.
@@ -16,7 +16,7 @@ Choose from the available configurations (e.g., 01.json, 02.json, etc.) to obser
 After running the simulation, the results will be stored in an output file inside the tests directory.
 
 ## Dependencies
-This project has no external dependencies beyond a standard C++ environment.
+This project has no external dependencies beyond a standard C++ linux environment.
 
 
 Feel free to reach out for any feedback, questions or issues related to running the simulation. Happy racing!
